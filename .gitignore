@@ -1,0 +1,6 @@
+.idea
+__pycache__/*
+tests/posted_articles.txt
+post_log.txt
+posted_articles.txt
+posted_recipes.txt
